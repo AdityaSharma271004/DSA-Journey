@@ -35,6 +35,7 @@ coding interviews.
 - Reverse Array
 - Intersection of Arrays
 - Unique Elements
+- Rotate Array by K position
 
 
 ⭐ This repository documents my progress from beginner to interview-ready.
